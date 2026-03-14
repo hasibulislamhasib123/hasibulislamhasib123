@@ -1,158 +1,217 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vWidth=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasibul+Islam+Hasib;Entrepreneur+%7C+CMO+%7C+Digital+Strategist;Building+Impactful+Business+Solutions" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasibulislam123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/hasibulislam114"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.facebook.com/Hasibulislamhasib123"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/hasibul.islam____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@hasibulislam3161"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://hasibulislamhasib.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.behance.net/hasibulislam7"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
-  <a href="https://www.figma.com/@hasibulislam123"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="https://www.threads.com/@hasibul.islam_____"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
-</p>
-
----
-
-## 👨‍💼 About Me
-
-> **Entrepreneur & Digital Strategist from Bangladesh 🇧🇩**  
-> Turning ideas into impactful business outcomes through data-driven strategies and creative innovation.
-
-- 🏢 Currently serving as **Chief Marketing Officer (CMO)** at **ASG Compressed Note**
-- 🤖 Passionate about **AI-powered automation**, business process optimization & digital growth
-- 📊 Expert in **strategic marketing**, customer engagement & brand building
-- 🎓 Pursuing **BBA in Management** at Ananda Mohan College, Mymensingh
-- 🌍 Based in **Mymensingh, Bangladesh** — building solutions with global impact
-- ✍️ Writing about entrepreneurship & digital strategy on [Medium](https://hasibulislamhasib.medium.com/)
-- 📫 Reach me at **hasibulislam5751@gmail.com**
-
----
-
-## 🚀 Current Role & Business
-
-### 🏷️ ASG Compressed Note — Chief Marketing Officer (CMO)
-`2023 – Present`
-
-Leading full-scale marketing operations for an educational product brand targeting HSC students across Bangladesh.
-
-- 📈 Developed & executed **data-driven marketing strategies** to boost product visibility and sales
-- 🎯 Managed targeted campaigns reaching thousands of HSC students nationwide
-- 🔍 Analyzed market trends to implement smart, scalable business solutions
-- 🤝 Built strategic partnerships to expand brand reach and awareness
-
----
-
-## 🛠️ Skills & Tools
-
-### 📣 Digital Marketing & Strategy
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Content Strategy](https://img.shields.io/badge/Content_Strategy-FF6B35?style=flat-square)
-![Brand Awareness](https://img.shields.io/badge/Brand_Awareness-6C63FF?style=flat-square)
-![Social Media](https://img.shields.io/badge/Social_Media_Management-E4405F?style=flat-square)
-
-### 🤖 AI & Automation
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Marketing Automation](https://img.shields.io/badge/Marketing_Automation-FF6B35?style=flat-square)
-
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)
-
-### 📊 Analytics & CRM
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4285F4?style=flat-square&logo=google-analytics&logoColor=white)
-![CRM](https://img.shields.io/badge/CRM-FF6B35?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO_Strategy-34A853?style=flat-square&logo=google&logoColor=white)
-
----
-
-## 💼 Featured Projects
-
-### 🤖 Google Sheets & Apps Script Automation System
-> AI-powered student data management automation
-
-- Designed an **automated student data retrieval system** using Google Sheets + Apps Script
-- Integrated **ChatGPT AI logic** to enhance workflow efficiency significantly
-- Reduced manual tasks, improved data accuracy & streamlined operations at scale
-- Applied advanced scripting techniques delivering **scalable, maintainable solutions**
-
----
-
-### 📱 Social Media & CRM Strategy (Personal Project)
-> End-to-end customer engagement & brand growth system
-
-- Designed and executed **customer engagement strategies** to build long-term relationships
-- Created and managed **content calendars** across Facebook, Instagram & LinkedIn
-- Monitored engagement metrics and optimized content strategy for improved reach
-
----
-
-## 📈 Professional Journey
+<div align="center">
 
 ```
-2019 ──── SSC (Science) | Gafargaon Islamia Govt. High School
-2021 ──── HSC (Science) | Shahid Syed Nazrul Islam College
-2023 ──── Joined 10 Minute School as Animated Slide Creator
-2023 ──── CMO at ASG Compressed Note  ──────────────────► Present
-2023 ──── Team Lead, Call Support at ACS
-2024 ──── Google Sheets AI Automation Project
-2024+ ─── Building digital brand | Writing | Creating ──► Now
+███████╗██╗  ██╗███████╗ ██████╗██╗   ██╗████████╗███████╗
+██╔════╝╚██╗██╔╝██╔════╝██╔════╝██║   ██║╚══██╔══╝██╔════╝
+█████╗   ╚███╔╝ █████╗  ██║     ██║   ██║   ██║   █████╗  
+██╔══╝   ██╔██╗ ██╔══╝  ██║     ██║   ██║   ██║   ██╔══╝  
+███████╗██╔╝ ██╗███████╗╚██████╗╚██████╔╝   ██║   ███████╗
+╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+Hasibul+Islam+Hasib;%24+role+%E2%86%92+Entrepreneur+%7C+CMO+%7C+Strategist;%24+status+%E2%86%92+Building+impactful+solutions+...;%24+location+%E2%86%92+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;%24+mission+%E2%86%92+Data+%2B+Strategy+%2B+Innovation+%3D+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117)
+![Build](https://img.shields.io/badge/BUILD-PASSING-00FF41?style=for-the-badge&logo=github-actions&logoColor=black&labelColor=0D1117)
+![Open to Collaborate](https://img.shields.io/badge/OPEN_TO-COLLABORATE-00BFFF?style=for-the-badge&logo=handshake&logoColor=black&labelColor=0D1117)
+
+</div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=hasibulislamhasib123&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&count_private=true" />
+
+```bash
+┌─[hasibul@bangladesh]─[~]
+└──╼ $ cat about.txt
+```
+
+```yaml
+name       : Hasibul Islam Hasib
+alias      : hasibulislamhasib123
+role       : Entrepreneur & CMO
+company    : ASG Compressed Note
+skills     : [Marketing, AI, Automation, Strategy]
+currently  : Building data-driven business solutions
+education  : BBA Management @ Ananda Mohan College
+tools      : [ChatGPT, Apps Script, Figma, Canva]
+languages  : [Bengali 🇧🇩, English 🌐]
+interests  : [AI Automation, Growth Hacking, SEO]
+status     : "Turning ideas into impact 🚀"
+```
+
+```bash
+┌─[hasibul@bangladesh]─[~]
+└──╼ $ █
+```
+
+<br clear="right"/>
+
+---
+
+## `> ./career_path.sh`
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  HASIBUL ISLAM HASIB  ──  PROFESSIONAL TIMELINE             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [2019] ──▶  SSC (Science) ─ Gafargaon Islamia Govt HS     ║
+║  [2021] ──▶  HSC (Science) ─ Shahid Syed Nazrul College     ║
+║  [2023] ──▶  10 Minute School ─ Animated Slide Creator      ║
+║  [2023] ──▶  ACS ─ Team Lead, Call Support                  ║
+║  [2023] ──▶  ASG Compressed Note ─ CMO  ──────────▶ NOW    ║
+║  [2024] ──▶  AI Automation Developer (Apps Script + GPT)    ║
+║  [2024] ──▶  BBA Management @ Ananda Mohan College          ║
+║  [2025+] ─▶  Building. Writing. Scaling. ──────────▶ ∞     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🌐 Find Me Across the Web
+## `> ls -la skills/`
 
-| Platform | Link | Purpose |
-|----------|------|---------|
-| 💼 LinkedIn | [hasibulislam123](https://www.linkedin.com/in/hasibulislam123/) | Professional Network |
-| ✍️ Medium | [hasibulislamhasib](https://hasibulislamhasib.medium.com/) | Articles & Insights |
-| 🎨 Behance | [hasibulislam7](https://www.behance.net/hasibulislam7) | Design Portfolio |
-| 🖌️ Figma | [hasibulislam123](https://www.figma.com/@hasibulislam123) | UI/UX Work |
-| 🐦 X/Twitter | [hasibulislam114](https://x.com/hasibulislam114) | Thoughts & Updates |
-| 📺 YouTube | [hasibulislam3161](https://www.youtube.com/@hasibulislam3161) | Video Content |
-| 📘 Facebook | [Hasibulislamhasib123](https://www.facebook.com/Hasibulislamhasib123) | Community |
-| 📸 Instagram | [hasibul.islam____](https://www.instagram.com/hasibul.islam____) | Visual Content |
-| 🧵 Threads | [hasibul.islam_____](https://www.threads.com/@hasibul.islam_____) | Short Updates |
+<div align="center">
 
----
+### `// DIGITAL MARKETING & STRATEGY`
 
-## 📊 GitHub Stats
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-Expert-00FF41?style=flat-square&logo=google-ads&logoColor=white&labelColor=0D1117)
+![Brand Strategy](https://img.shields.io/badge/Brand_Strategy-Expert-00FF41?style=flat-square&logo=buffer&logoColor=white&labelColor=0D1117)
+![Content Strategy](https://img.shields.io/badge/Content_Strategy-Advanced-00BFFF?style=flat-square&logo=notion&logoColor=white&labelColor=0D1117)
+![SEO](https://img.shields.io/badge/SEO-Advanced-00BFFF?style=flat-square&logo=google&logoColor=white&labelColor=0D1117)
+![Social Media](https://img.shields.io/badge/Social_Media_Mgmt-Advanced-00BFFF?style=flat-square&logo=hootsuite&logoColor=white&labelColor=0D1117)
+![Growth Hacking](https://img.shields.io/badge/Growth_Hacking-Advanced-00BFFF?style=flat-square&labelColor=0D1117)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibulislamhasib123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulislamhasib123&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### `// AI & AUTOMATION`
 
----
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Power_User-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Advanced-00FF41?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-Automation-00FF41?style=flat-square&logo=google&logoColor=white&labelColor=0D1117)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Advanced-00BFFF?style=flat-square&logo=google-sheets&logoColor=white&labelColor=0D1117)
+![AI Automation](https://img.shields.io/badge/AI_Automation-Building-FF6B35?style=flat-square&labelColor=0D1117)
 
-## 🤝 Let's Connect & Collaborate
+### `// DESIGN & CREATIVE TOOLS`
 
-> I'm always open to **business collaborations**, **marketing consultations**, and **entrepreneurship discussions**.
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX-00FF41?style=flat-square&logo=figma&logoColor=white&labelColor=0D1117)
+![Canva](https://img.shields.io/badge/Canva-Design-00BFFF?style=flat-square&logo=canva&logoColor=white&labelColor=0D1117)
+![Behance](https://img.shields.io/badge/Behance-Portfolio-00BFFF?style=flat-square&logo=behance&logoColor=white&labelColor=0D1117)
+![CRM](https://img.shields.io/badge/CRM-Management-FF6B35?style=flat-square&labelColor=0D1117)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Intermediate-FF6B35?style=flat-square&logo=tableau&logoColor=white&labelColor=0D1117)
 
-<p align="center">
-  <a href="mailto:hasibulislam5751@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hasibulislam123/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasibulislamhasib123&color=6C63FF&style=flat-square&label=Profile+Views"/>
-</p>
+## `> cat projects.log`
 
-<p align="center">
-  <i>"Building impactful businesses through strategy, creativity, and data-driven innovation."</i><br/>
-  <b>— Hasibul Islam Hasib | Entrepreneur & CMO | Bangladesh 🇧🇩</b>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT_01  ──  AI-Powered Automation System               ║
+╠══════════════════════════════════════════════════════════════╣
+║  STACK    : Google Sheets + Apps Script + ChatGPT API       ║
+║  TYPE     : Automation / AI Integration                      ║
+║  IMPACT   : Reduced manual tasks by ~80%                     ║
+║  STATUS   : ██████████████████████ DEPLOYED ✓               ║
+╚══════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT_02  ──  CMO @ ASG Compressed Note                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  TYPE     : Business Strategy + Campaign Management          ║
+║  TARGET   : HSC Students across Bangladesh 🇧🇩              ║
+║  RESULT   : Scaled visibility & sales with data-driven ops   ║
+║  STATUS   : ██████████████████████ ACTIVE → PRESENT ✓       ║
+╚══════════════════════════════════════════════════════════════╝
+
+╔══════════════════════════════════════════════════════════════╗
+║  PROJECT_03  ──  Social Media & CRM Strategy                ║
+╠══════════════════════════════════════════════════════════════╣
+║  PLATFORMS: Facebook · Instagram · LinkedIn                  ║
+║  TYPE     : Customer Engagement + Brand Growth               ║
+║  RESULT   : Improved reach, retention & brand awareness      ║
+║  STATUS   : ██████████████████████ ONGOING ✓                ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> cat stats.json`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibulislamhasib123&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulislamhasib123&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" width="49%"/>
+
+<br/><br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hasibulislamhasib123&bg_color=0D1117&color=00FF41&line=00FF41&point=FF6B35&area=true&hide_border=true)
+
+</div>
+
+---
+
+## `> ping social_networks`
+
+<div align="center">
+
+```
+PINGING ALL PLATFORMS... RESPONSE RECEIVED ✓
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/hasibulislam123/)
+[![X](https://img.shields.io/badge/X_(Twitter)-FOLLOW-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://x.com/hasibulislam114)
+[![Facebook](https://img.shields.io/badge/Facebook-LIKE-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)](https://www.facebook.com/Hasibulislamhasib123)
+[![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/hasibul.islam____)
+
+[![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@hasibulislam3161)
+[![Medium](https://img.shields.io/badge/Medium-READ-00AB6C?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117)](https://hasibulislamhasib.medium.com/)
+[![Behance](https://img.shields.io/badge/Behance-VIEW-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=0D1117)](https://www.behance.net/hasibulislam7)
+[![Figma](https://img.shields.io/badge/Figma-VIEW-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)](https://www.figma.com/@hasibulislam123)
+[![Threads](https://img.shields.io/badge/Threads-FOLLOW-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=0D1117)](https://www.threads.com/@hasibul.islam_____)
+
+</div>
+
+---
+
+## `> send --mail`
+
+<div align="center">
+
+```bash
+┌─[hasibul@bangladesh]─[~/contact]
+└──╼ $ echo "Let's build something together 🚀"
+```
+
+[![Email](https://img.shields.io/badge/hasibulislam5751@gmail.com-SEND_MESSAGE-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:hasibulislam5751@gmail.com)
+
+```
+> Open to: Business Collabs · Marketing Consulting · AI Projects
+> Response time: < 24 hours ⚡
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   "Strategy is not about doing more. It's about doing        ║
+║    the right things — precisely, persistently, boldly."      ║
+║                                                              ║
+║                  — Hasibul Islam Hasib                       ║
+║         Entrepreneur · CMO · Digital Strategist              ║
+║                   Bangladesh 🇧🇩                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasibulislamhasib123&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
+
+</div>
